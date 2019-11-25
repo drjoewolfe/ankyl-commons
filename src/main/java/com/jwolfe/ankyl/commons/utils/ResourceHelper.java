@@ -1,4 +1,4 @@
-package com.jwolfe.ankyl.commons;
+package com.jwolfe.ankyl.commons.utils;
 
 import java.io.InputStream;
 
